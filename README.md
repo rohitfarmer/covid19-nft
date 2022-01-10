@@ -4,7 +4,7 @@ This repository contains the COVID19 NFT in high-resolution PDF format, along wi
 
 * Click on the zip files listed above, which will lead to a different page with the download button.
 * Zip files are created by PeaZip (https://peazip.github.io/), a cross-platform, free and open-source software.
-* NFT file is around 158 MB in size which is split into two zip files (COVID19-NFT.zip.001 and COVID19-NFT.zip.001). Open the first file in PeaZip and extract it using the password. It will put together the zip splits and produce a single PDF document.
+* NFT file is around 158 MB in size which is split into two zip files (COVID19-NFT.zip.001 and COVID19-NFT.zip.002). Open the first file in PeaZip and extract it using the password. It will put together the zip splits and produce a single PDF document.
 
 *Note: I have not tested other zip/archiving software; however, given zip is a standard format, these archives should be able to extract using other commonly used software.*
 
