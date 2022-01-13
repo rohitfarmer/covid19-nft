@@ -1,6 +1,6 @@
 # COVID-19 The Deadliest Disease In American History
 
-This repository contains the COVID19 NFT in high-resolution PDF format, along with a document with the technical specifications associated with it. Both the NFT and the technical specifications document are zipped and password protected. **Password is in the locked section of the NFT page on OpenSea.** 
+This repository contains the COVID19 NFT in high-resolution PDF format, along with a document with the technical specifications associated with it. The NFT is zipped and password protected. **Password is in the locked section of the NFT page on OpenSea.** 
 
 * Click on the zip files listed above, which will lead to a different page with the download button.
 * Zip files are created by PeaZip (https://peazip.github.io/), a cross-platform, free and open-source software.
@@ -13,7 +13,7 @@ For more information and help please contact Rohit Farmer at [rohit.farmer@gmail
 ## NFT Description
 In September 2021, COVID19 surpassed the death toll of 675,000 of the 1918 Spanish flu pandemic in the USA - becoming the deadliest disease in American history. COVID-19 is caused by a coronavirus called SARS-CoV-2. Spike protein (S) on the surface of the SARS-CoV-2 virus binds to human cells by recognizing the ACE2 protein receptor. This binding facilitates the fusion of the virus to human cells leading to the injection of the viral genetic material into the human cells. Once inside the human cells, viral genetic material utilizes host machinery to produce more copies of the SARS-CoV-2 virus.
 
-This single copy of NFT commemorates the record-breaking deaths in the US by rendering the spike protein in 675,001 unique combinations of RGB color codes. These 675,001 spike protein representations portray the unfathomable amount of lives lost and highlight the negligence by the government of the originating country, the failure of local, state, and federal administrations to take timely action, the spread of misinformation, and political and religious bigotry. It also sets a reminder that pandemics are powerful, non-discriminatory, and can affect people from all walks of life. And we should be better prepared for the next time.
+This single copy of NFT (24 X 36-inch poster) commemorates the record-breaking deaths in the USA by rendering the spike protein in 675,001 unique combinations of RGB color codes. These 675,001 spike protein representations portray the unfathomable amount of lives lost and highlight the negligence by the government of the originating country, the failure of local, state, and federal administrations to take timely action, the spread of misinformation, and political and religious bigotry. It also sets a reminder that pandemics are powerful, non-discriminatory, and can affect people from all walks of life. And we should be better prepared for the next time.
 
 ![Cartoon Structure of SARS-CoV-2](sars_cov_2.png)
 
